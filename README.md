@@ -1,5 +1,5 @@
 # WesBos Challenge - #30DaysOfCode
-
+![demo](./screenshot-vanribiero.png)
 Because I need to improve my VanillaJS skills, I decided to do the [WesBos challenge](https://javascript30.com/). I'm going to write the updates here! 😃
 
 **Start:** 04/27/2020
